@@ -1,3 +1,11 @@
 body {
-  background: linear-gradient(214deg, rgba(61,61,85,1) 12%, rgba(106,97,130,1) 32%, rgba(238,222,241,1) 81%);
+background: rgb(108,108,226);
+
+background: -moz-linear-gradient(0deg, rgba(108,108,226,1) 2%, rgba(150,127,210,1) 27%, rgba(232,201,214,1) 93%);
+
+background: -webkit-linear-gradient(0deg, rgba(108,108,226,1) 2%, rgba(150,127,210,1) 27%, rgba(232,201,214,1) 93%);
+
+background: linear-gradient(0deg, rgba(108,108,226,1) 2%, rgba(150,127,210,1) 27%, rgba(232,201,214,1) 93%);
+
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#6c6ce2",endColorstr="#e8c9d6",GradientType=1);
 }
