@@ -1,11 +1,21 @@
+.flex-container {
+  display: flex;
+  background-color: #bbbbbb;
+}
+
+.flex-container > div {
+
+}
+div.name {
+font-family: 'Lalezar', cursive;
+font-size: 30px;
+}
+
+
 body {
-background: rgb(108,108,226);
-
-background: -moz-linear-gradient(0deg, rgba(108,108,226,1) 2%, rgba(150,127,210,1) 27%, rgba(232,201,214,1) 93%);
-
-background: -webkit-linear-gradient(0deg, rgba(108,108,226,1) 2%, rgba(150,127,210,1) 27%, rgba(232,201,214,1) 93%);
-
-background: linear-gradient(0deg, rgba(108,108,226,1) 2%, rgba(150,127,210,1) 27%, rgba(232,201,214,1) 93%);
-
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#6c6ce2",endColorstr="#e8c9d6",GradientType=1);
+background: rgb(200,161,141);
+background: -moz-linear-gradient(0deg, rgba(200,161,141,1) 18%, rgba(174,152,134,1) 50%, rgba(110,142,170,1) 100%);
+background: -webkit-linear-gradient(0deg, rgba(200,161,141,1) 18%, rgba(174,152,134,1) 50%, rgba(110,142,170,1) 100%);
+background: linear-gradient(0deg, rgba(200,161,141,1) 18%, rgba(174,152,134,1) 50%, rgba(110,142,170,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#c8a18d",endColorstr="#6e8eaa",GradientType=1);
 }
