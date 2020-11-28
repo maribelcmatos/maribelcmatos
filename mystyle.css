@@ -1,21 +1,21 @@
 .flex-container {
   display: flex;
-  background-color: #bbbbbb;
+  background-color: #000000;
 }
-
+/*
+This part of the CSS code is meant to deal exclusively with the flexbox holding my navigational bar.
+*/
 .flex-container > div {
 
 }
+
 div.name {
 font-family: 'Lalezar', cursive;
+color: #ffffff;
 font-size: 30px;
 }
 
 
 body {
-background: rgb(200,161,141);
-background: -moz-linear-gradient(0deg, rgba(200,161,141,1) 18%, rgba(174,152,134,1) 50%, rgba(110,142,170,1) 100%);
-background: -webkit-linear-gradient(0deg, rgba(200,161,141,1) 18%, rgba(174,152,134,1) 50%, rgba(110,142,170,1) 100%);
-background: linear-gradient(0deg, rgba(200,161,141,1) 18%, rgba(174,152,134,1) 50%, rgba(110,142,170,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#c8a18d",endColorstr="#6e8eaa",GradientType=1);
+background-color: #ffffff;
 }
