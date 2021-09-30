@@ -13,6 +13,7 @@ div.name {
 font-family: 'Lalezar', cursive;
 color: #ffffff;
 font-size: 30px;
+font-kerning: auto;
 }
 
 
