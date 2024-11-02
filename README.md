@@ -1,4 +1,6 @@
-### Hi there 👋
+### The world is constantly changing. Globalization has taken us from only hearing information about other countries from the news to being able to interact with people around the world with a swipe on our smartphones. Keeping up with these changes requires adaptability and a passion for the underlying structures that enable us to create this technology.
+
+This repository is intended to document programs that I have created and worked on, and serve as reference material for the curious.
 
 <!--
 **maribelcmatos/maribelcmatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
